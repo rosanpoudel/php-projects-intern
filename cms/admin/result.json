@@ -1,0 +1,57 @@
+{
+    "jason" : {
+        "name" : "Jason Lengstorf",
+        "roll" : "1",
+        "total" : "100"
+    },
+     "roshan" : {
+        "name" : "Roshan Poudel",
+        "roll" : "2",
+        "total" : "110"
+    },
+     "prakash" : {
+        "name" : "Prakash Poudel",
+        "roll" : "3",
+        "total" : "120"
+    },
+     "deepak" : {
+        "name" : "Deepak dhungana",
+        "roll" : "4",
+        "total" : "130"
+    },
+     "ram" : {
+        "name" : "Ram Subedi",
+        "roll" : "5",
+        "total" : "140"
+    },
+     "sisir" : {
+        "name" : "Sisir Baral",
+        "roll" : "6",
+        "total" : "150"
+    },
+     "shulav" : {
+        "name" : "Shulav Poudel",
+        "roll" : "7",
+        "total" : "115"
+    },
+     "pradeep" : {
+        "name" : "Pradeep subedi",
+        "roll" : "8",
+        "total" : "100"
+    },
+     "bikki" : {
+        "name" : "Bikki Bhandari",
+        "roll" : "9",
+        "total" : "100"
+    },
+     "sunil" : {
+        "name" : "Sunil Regmi",
+        "roll" : "10",
+        "total" : "100"
+    },
+     "sandesh" : {
+        "name" : "Sandesh Poudel",
+        "roll" : "11",
+        "total" : "120"
+    }
+}

@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /eWallet/
+
+RewriteRule ^api/([A-Za-z]+)$ api/controller/user-controller.php?action=$1 [NC,L]
+
+RewriteRule ^api/([A-Za-z]+)/([0-9]+)$ api/controller/user-controller.php?action=$1&id=$2 [NC,L]
+
+

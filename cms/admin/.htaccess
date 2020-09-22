@@ -1,0 +1,23 @@
+RewriteEngine On
+	RewriteBase /cms/admin/view/
+	RewriteRule ^pagemanager$ page-manager.php [L,QSA]
+
+	RewriteRule ^view-image/([0-9]+)$ view-image.php?view_id=$1 [L,QSA]
+
+	RewriteRule ^edit-page/([0-9]+)$ edit-page.php?edit_id=$1 [L,QSA]
+
+	RewriteRule ^edit-user/([0-9]+)$ edit-user.php?edit_id=$1 [L,QSA]
+
+	RewriteRule ^edit-slider/([0-9]+)$ edit-slider.php?edit_id=$1 [L,QSA]
+	
+	RewriteRule ^edit-post/([0-9]+)$ edit-post.php?edit_id=$1 [L,QSA]
+
+
+
+
+	
+
+	
+	
+
+
